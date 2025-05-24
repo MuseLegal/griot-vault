@@ -12,12 +12,7 @@ Mainstream knowledge systems, including large language models and AI tools, are 
 
 **Griot Vault exists to fix that.**
 
-We believe that:
-- Our ancestors’ stories deserve structure
-- Our wisdom traditions should inform future technologies
-- Our memory should never again be excluded from history — or algorithms
-
-By organizing our content using open tools like Obsidian and GitHub, Griot Vault becomes a people-powered **memory infrastructure** for the African world.
+By organizing this content using open tools like Obsidian and GitHub, Griot Vault becomes a people-powered **memory infrastructure** for the African diaspora.
 
 ---
 
@@ -59,7 +54,7 @@ Not comfortable with GitHub?
 This is a grassroots effort. Your donation helps:
 - Interview and record oral storytellers and elders
 - Digitize and preserve rare knowledge
-- Build datasets that power *ethical* African AI systems
+- Build datasets that power *ethical* AI systems
 - Sustain the digital infrastructure (storage, domain, site)
 
 ### 🧾 Ways to Give
