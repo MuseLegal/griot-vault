@@ -77,4 +77,4 @@ Email: **griotvault@protonmail.com**
 ---
 
 > Built with love, memory, and vision.  
-> For the culture. For the future. For the people.
+
