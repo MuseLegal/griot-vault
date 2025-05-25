@@ -46,7 +46,7 @@ Griot Vault is a structured archive of African history, proverbs, movements, and
 
 ## 🔄 Can’t Use GitHub?
 
-Email your entry (Word doc, notes, or story) to: **griotvault@protonmail.com**  
+Email your entry (Word doc, notes, or story) to: **griotvault@proton.me**  
 We'll format and upload it for you.
 
 ---
