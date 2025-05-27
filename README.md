@@ -59,7 +59,7 @@ This is a grassroots effort. Your donation helps:
 
 ### 🧾 Ways to Give
 
-- **Donate(https://www.zeffy.com/en-US/donation-form/support-africa-diasporic-data-sets)
+- - [Donate](https://www.zeffy.com/en-US/donation-form/support-africa-diasporic-data-sets)
 
 ### 💬 Want to sponsor an archive series, contribute to translation, or offer grant support?
 Email: **griotvault@protonmail.com**
